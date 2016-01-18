@@ -1,6 +1,6 @@
 # Project Euler Problem 1
 # Charles Profitt 6/5/2011
-# Git Change 2
+# Git Change 3
 
 def total_sum_in_range(n):
         # iterate through range and add multiples of 3 and 5
