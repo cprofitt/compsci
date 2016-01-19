@@ -1,5 +1,6 @@
 # Project Euler Problem 2
 # Charles Profitt 6/5/2011
+# github edit
 
 def fibonacci_sequence(s1, s2, l):
 	# given seeds of s1 and s2 create a fibonacci sequence limited to l
